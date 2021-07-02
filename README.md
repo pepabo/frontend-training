@@ -1,3 +1,5 @@
+# 現在は [pepabo/training](https://github.com/pepabo/training/tree/master/frontend-training) リポジトリで管理されています。
+
 # フロントエンド・ SPA 研修
 
 * [テキスト](https://pepabo.github.io/frontend-training/)
